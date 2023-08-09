@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+*{
+    margin: 20;
+    padding: 30;
+
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(222, 208, 235);
+    color: darkblue;
+
+}
+u{
+    color: rgb(18, 8, 38);
+}
+img
+{
+    height: 300px;
+    width: 500px;
+}
+h1
+{
+    font-family: 'Indie Flower', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Noto Serif Khojki', serif;
+font-family: 'Playfair Display', serif;}
